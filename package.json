@@ -1,0 +1,29 @@
+{
+  "name": "teodoraniangular",
+  "version": "1.0.0",
+  "description": "Sito demo teodorani in angularjs con gulp e node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mastrus/teodoraniangular.git"
+  },
+  "keywords": [
+    "angularjs",
+    "html",
+    "javascript",
+    "demosite"
+  ],
+  "author": "Alessandro Masotti (alessandro.masotti@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastrus/teodoraniangular/issues"
+  },
+  "homepage": "https://github.com/mastrus/teodoraniangular#readme",
+  "devDependencies": {
+    "del": "^4.1.1",
+    "gulp": "^4.0.1"
+  }
+}
